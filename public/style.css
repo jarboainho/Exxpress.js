@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: linear-gradient(to right, rgb(165, 39, 250) , rgb(204, 99, 160));;
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(99, 0, 165);
+    padding: 5px;
+ 
+  }
+  a{
+    display: flex;
+  }
